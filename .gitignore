@@ -1,0 +1,9 @@
+node_modules
+npm-debug.log
+videos_mp4/*
+videos_m3u8/*
+profilepic_raw/*
+profilepic_sort/s/*
+profilepic_sort/m/*
+profilepic_sort/l/*
+
